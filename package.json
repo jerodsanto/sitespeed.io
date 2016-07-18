@@ -56,7 +56,7 @@
     "chai-as-promised": "^5.2.0",
     "clean-css": "^3.4.17",
     "eclint": "^1.1.5",
-    "eslint": "^2.9.0",
+    "eslint": "^3.1.1",
     "jsdoc": "^3.3.3",
     "license-checker": "^5.1.2",
     "mocha": "^2.4.4",
@@ -95,6 +95,6 @@
     "simplecrawler": "0.7.0",
     "webcoach": "0.24.2",
     "webpagetest": "0.3.4",
-    "yargs": "4.7.0"
+    "yargs": "4.8.1"
   }
 }
